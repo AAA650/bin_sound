@@ -122,7 +122,7 @@ int main(int argc, char* argv[])
 	Sleep(1000);
 	cout << "2... ";
 	Sleep(1000);
-	cout << "1... " << endl;
+	cout << "1..." << endl;
 	Sleep(1000);
 
 	for (int byte_data = 0; !bin_file->eof();) {
